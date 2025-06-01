@@ -1,0 +1,11 @@
+# Python Telnet Client Requirements
+# No external dependencies required - uses only standard library modules
+
+# Optional: For enhanced logging and debugging
+# colorlog>=6.0.0
+
+# Optional: For configuration file support  
+# pyyaml>=6.0.0
+
+# Optional: For enhanced regex support
+# regex>=2023.0.0
